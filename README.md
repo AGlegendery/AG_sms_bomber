@@ -13,7 +13,7 @@ a sms bomber for iranian
 قابلیت بمب کردن تماس و اسمس همزمان👌
 -  
 ## 📃 پیش نیاز ها
-- [Python3.11](https://www.python.org/downloads/)
+- [Python Upper Then 3.11(3.13Recomended)](https://www.python.org/downloads/)
 - requests
 - PyStyle
 - Colorama
