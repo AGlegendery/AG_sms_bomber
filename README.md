@@ -16,6 +16,8 @@ a sms bomber for iranian
 - [Python3.11](https://www.python.org/downloads/)
 - requests
 - PyStyle
+- Colorama
+- User-agent
 ## نصب و راه اندازی
 
 پروژه را کلون کنید 🔗
@@ -49,3 +51,9 @@ git clone https://github.com/AGlegendery/AG_bomber.git
 در صورتی که تمایل به استفاده از پروکسی دارید میتونید پروکسی های http تهیه کنید و یه فایل به اسم proxies.txt توی فولدر اصلی بسازید
 سورس کد به صورت خودکار ازش استفاده میکنه
 
+## Update 2.3
+#ویژگی های این اپدیت 
+- تک فایله شدن کل اسکریپت 
+- اضافه شدن API های بیشتر
+- زیبایی بیشتر و رابط کاربری زیباتر
+- مخفی تر ساختن اسپم با ماژول User agent 
